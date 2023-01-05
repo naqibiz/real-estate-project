@@ -57,22 +57,72 @@ header {
   color: #fff;
 }
 .banner_section_content .banner_btn {
-  border: none;
-  padding: 15px 30px;
-  text-transform: uppercase;
-  font-weight: 700;
-  font-size: 14px;
   cursor: pointer;
-  background-color: #453657;
-  color: #fff;
-  border-radius: 6px;
-  transition: 0.5s;
+  background-size: 100% 100%;
+  background-color: rgba(255, 255, 255, 0.24);
+  font-size: 19px;
+  border-radius: 12px;
+  display: inline-block;
+  text-align: center;
+  padding: 15px 30px;
+  margin-top: 35px;
+  font-weight: 400;
+  box-shadow: #ffffff2e -4px 4px 0 0;
+  text-transform: capitalize;
+  position: relative;
+  overflow: hidden;
+  -webkit-animation: glowing 1500ms infinite;
+  -moz-animation: glowing 1500ms infinite;
+  -o-animation: glowing 1500ms infinite;
+  animation: glowing 1500ms infinite;
+}
+
+.banner_section_content .banner_btn span {
+  color: #fff !important;
+  position: relative;
+  z-index: 1;
+}
+
+.banner_section_content .banner_btn:before {
+  content: "";
+  width: 110%;
+  height: 110%;
+  position: absolute;
+  -webkit-transition: -webkit-transform 0.45s
+    cubic-bezier(0.835, -0.005, 0.06, 1);
+  transition: -webkit-transform 0.45s cubic-bezier(0.835, -0.005, 0.06, 1);
+  transition: transform 0.45s cubic-bezier(0.835, -0.005, 0.06, 1);
+  transition: transform 0.45s cubic-bezier(0.835, -0.005, 0.06, 1),
+    -webkit-transform 0.45s cubic-bezier(0.835, -0.005, 0.06, 1);
+  -webkit-transform-origin: right;
+  transform-origin: right;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  left: -5%;
+  will-change: transform;
+  z-index: 0;
+  top: 0;
+  background: #453657;
+}
+
+.banner_section_content .banner_btn:hover:not(.disabled):before {
+  -webkit-transform-origin: left;
+  transform-origin: left;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.banner_section_content .banner_btn:hover span {
+  color: #fff !important;
+  -webkit-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease;
 }
 
 .banner_section_content .banner_btn:hover {
-  background-color: #8591b7;
-  transition: 0.5s;
+  box-shadow: none;
 }
+
 .section_two_detail_inner h2 {
   font-size: 42px;
   text-transform: uppercase;

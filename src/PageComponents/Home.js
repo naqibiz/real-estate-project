@@ -101,7 +101,9 @@ const Home = () => {
               With Residential Solutions Real Estate, you can book your home at
               the best and most affordable price.
             </h2>
-            <button className="banner_btn">Book Now</button>
+            <a className="banner_btn">
+              <span>Book Now</span>
+            </a>
           </div>
         </div>
       </div>
