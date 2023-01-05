@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Gulshan-e-Iqbal Town",
+    "discription":
+      "Shaz Residency is a project by Sami Builders and developers in Karachi. The developer’s mission is to provide affordable living for a larger number of people in Gulshan-e-Iqbal. As there is an increasing demand for apartments, this project provides the perfect mix of premium living in a prime location. Approved by the SBCA makes this investment safe for investors and home buyers, and adds greatly to its appeal.",
+    "price": 80.56,
+    "type": "Flats",
+    "city": "Karachi",
+    "backgroundImage": [
+      "../assets/image/flatonedetail_1.jpg",
+      "../assets/image/flatonedetail_2.jpg",
+      "../assets/image/flatonedetail_3.jpg",
+      "../assets/image/flatonedetail_4.jpg",
+      "../assets/image/flatonedetail_5.jpg"
+    ],
+    "facilities": [
+      "24- hour CCTV surveillance & monitoring",
+      "Firefighting system",
+      "Emergency power backup",
+      "Earthquake-proof structure",
+      "Covered car parking for residents",
+      "High-speed lifts",
+      "Already operational mosque"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Gulshan-e-Iqbal Town",
+    "discription":
+      "Shaz Residency is a project by Sami Builders and developers in Karachi. The developer’s mission is to provide affordable living for a larger number of people in Gulshan-e-Iqbal. As there is an increasing demand for apartments, this project provides the perfect mix of premium living in a prime location. Approved by the SBCA makes this investment safe for investors and home buyers, and adds greatly to its appeal.",
+    "price": 80.56,
+    "type": "Flats",
+    "city": "Karachi",
+    "backgroundImage": [
+      "../assets/image/flatonedetail_1.jpg",
+      "../assets/image/flatonedetail_2.jpg",
+      "../assets/image/flatonedetail_3.jpg",
+      "../assets/image/flatonedetail_4.jpg",
+      "../assets/image/flatonedetail_5.jpg"
+    ],
+    "facilities": [
+      "24- hour CCTV surveillance & monitoring",
+      "Firefighting system",
+      "Emergency power backup",
+      "Earthquake-proof structure",
+      "Covered car parking for residents",
+      "High-speed lifts",
+      "Already operational mosque"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Gulshan-e-Iqbal Town",
+    "discription":
+      "Shaz Residency is a project by Sami Builders and developers in Karachi. The developer’s mission is to provide affordable living for a larger number of people in Gulshan-e-Iqbal. As there is an increasing demand for apartments, this project provides the perfect mix of premium living in a prime location. Approved by the SBCA makes this investment safe for investors and home buyers, and adds greatly to its appeal.",
+    "price": 80.56,
+    "type": "Flats",
+    "city": "Karachi",
+    "backgroundImage": [
+      "../assets/image/flatonedetail_1.jpg",
+      "../assets/image/flatonedetail_2.jpg",
+      "../assets/image/flatonedetail_3.jpg",
+      "../assets/image/flatonedetail_4.jpg",
+      "../assets/image/flatonedetail_5.jpg"
+    ],
+    "facilities": [
+      "24- hour CCTV surveillance & monitoring",
+      "Firefighting system",
+      "Emergency power backup",
+      "Earthquake-proof structure",
+      "Covered car parking for residents",
+      "High-speed lifts",
+      "Already operational mosque"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Gulshan-e-Iqbal Town",
+    "discription":
+      "Shaz Residency is a project by Sami Builders and developers in Karachi. The developer’s mission is to provide affordable living for a larger number of people in Gulshan-e-Iqbal. As there is an increasing demand for apartments, this project provides the perfect mix of premium living in a prime location. Approved by the SBCA makes this investment safe for investors and home buyers, and adds greatly to its appeal.",
+    "price": 80.56,
+    "type": "Flats",
+    "city": "Karachi",
+    "backgroundImage": [
+      "../assets/image/flatonedetail_1.jpg",
+      "../assets/image/flatonedetail_2.jpg",
+      "../assets/image/flatonedetail_3.jpg",
+      "../assets/image/flatonedetail_4.jpg",
+      "../assets/image/flatonedetail_5.jpg"
+    ],
+    "facilities": [
+      "24- hour CCTV surveillance & monitoring",
+      "Firefighting system",
+      "Emergency power backup",
+      "Earthquake-proof structure",
+      "Covered car parking for residents",
+      "High-speed lifts",
+      "Already operational mosque"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Gulshan-e-Iqbal Town",
+    "discription":
+      "Shaz Residency is a project by Sami Builders and developers in Karachi. The developer’s mission is to provide affordable living for a larger number of people in Gulshan-e-Iqbal. As there is an increasing demand for apartments, this project provides the perfect mix of premium living in a prime location. Approved by the SBCA makes this investment safe for investors and home buyers, and adds greatly to its appeal.",
+    "price": 80.56,
+    "type": "Flats",
+    "city": "Karachi",
+    "backgroundImage": [
+      "../assets/image/banner_box_img.jpg",
+      "../assets/image/flatonedetail_1.jpg",
+      "../assets/image/flatonedetail_2.jpg",
+      "../assets/image/flatonedetail_3.jpg",
+      "../assets/image/flatonedetail_4.jpg",
+      "../assets/image/flatonedetail_5.jpg"
+    ],
+    "facilities": [
+      "24- hour CCTV surveillance & monitoring",
+      "Firefighting system",
+      "Emergency power backup",
+      "Earthquake-proof structure",
+      "Covered car parking for residents",
+      "High-speed lifts",
+      "Already operational mosque"
+    ]
+  }
+]
